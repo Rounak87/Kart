@@ -588,7 +588,7 @@ POST /api/checkout
 
 **Rounak**
 
-- GitHub: [[@yourusername](https://github.com/Rounak87)]
+- GitHub: [[@Rounak87](https://github.com/Rounak87)]
 
 
 ---
